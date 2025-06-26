@@ -32,7 +32,7 @@ lista-de-compras/
 │
 ├── index.html # Página principal
 ├── style.css # Estilo da aplicação
-└── script.js # Lógica e manipulação de dados
+└── main.js # Lógica e manipulação de dados
 
 
 ---
