@@ -22,8 +22,8 @@ O objetivo principal é reforçar conceitos de manipulação de objetos, arrays 
 
 - **HTML5** – Estrutura da página
 - **CSS3** – Estilização e layout
-- **JavaScript (ES6+)** – Lógica de funcionamento e manipulação de dados
-
+- **JavaScript** – Lógica de funcionamento 
+- **JSON** – Serialização e desserialização de dados no `localStorage` 
 ---
 
 ## 🗂 Estrutura de Arquivos
